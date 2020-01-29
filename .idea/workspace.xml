@@ -25,7 +25,79 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.ParticleSwamOptimization">
+    <configuration name="ObjectiveFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Optimization-Prob-Alg-Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectiveFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ParticleSwamOptimization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Optimization-Prob-Alg-Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParticleSwamOptimization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SingleObjectiveProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Optimization-Prob-Alg-Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingleObjectiveProblem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ParticleSwamOptimization" />
+        <item itemvalue="Python.ObjectiveFunction" />
+        <item itemvalue="Python.SingleObjectiveProblem" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,17 +117,41 @@
       <screen x="951" y="-1080" width="1827" height="1080" />
     </state>
     <state x="1456" y="-881" key="#Notifications/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580308534738" />
-    <state x="1365" y="-897" key="SettingsEditor" timestamp="1580308529719">
+    <state x="951" y="-938" width="1643" height="860" key="DiffContextDialog" timestamp="1580325097684">
       <screen x="951" y="-1080" width="1827" height="1080" />
     </state>
-    <state x="1365" y="-897" key="SettingsEditor/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580308529719" />
+    <state x="951" y="-938" width="1643" height="860" key="DiffContextDialog/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580325097684" />
+    <state width="903" height="295" key="GridCell.Tab.0.bottom" timestamp="1580325245814">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state width="903" height="295" key="GridCell.Tab.0.bottom/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580325245814" />
+    <state width="903" height="295" key="GridCell.Tab.0.center" timestamp="1580325245814">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state width="903" height="295" key="GridCell.Tab.0.center/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580325245814" />
+    <state width="903" height="295" key="GridCell.Tab.0.left" timestamp="1580325245813">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state width="903" height="295" key="GridCell.Tab.0.left/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580325245813" />
+    <state width="903" height="295" key="GridCell.Tab.0.right" timestamp="1580325245814">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state width="903" height="295" key="GridCell.Tab.0.right/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580325245814" />
+    <state x="1222" y="-808" width="998" height="716" key="SettingsEditor" timestamp="1580321584936">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state x="1222" y="-808" width="998" height="716" key="SettingsEditor/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580321584936" />
     <state x="1560" y="-715" key="com.intellij.ide.util.TipDialog" timestamp="1580307208729">
       <screen x="951" y="-1080" width="1827" height="1080" />
     </state>
     <state x="1560" y="-715" key="com.intellij.ide.util.TipDialog/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580307208729" />
-    <state x="1527" y="-845" key="search.everywhere.popup" timestamp="1580307526863">
+    <state x="1495" y="-995" width="739" height="909" key="find.popup" timestamp="1580314517982">
       <screen x="951" y="-1080" width="1827" height="1080" />
     </state>
-    <state x="1527" y="-845" key="search.everywhere.popup/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580307526863" />
+    <state x="1495" y="-995" width="739" height="909" key="find.popup/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580314517982" />
+    <state x="1527" y="-845" width="672" height="678" key="search.everywhere.popup" timestamp="1580324885856">
+      <screen x="951" y="-1080" width="1827" height="1080" />
+    </state>
+    <state x="1527" y="-845" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/951.-1080.1827.1080/-907.-1100.1858.1080@951.-1080.1827.1080" timestamp="1580324885856" />
   </component>
 </project>
